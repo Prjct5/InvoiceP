@@ -1,0 +1,6 @@
+{
+  "db_path": "..\\..\\..\\..\\Database\\furnitrack.db",
+  "services_dir": "..\\..\\..\\..\\PythonServices\\dist",
+  "exports_dir": "..\\..\\..\\..\\Exports",
+  "log_level": "info"
+}
